@@ -25,6 +25,7 @@ import {
     threejs,
     logo,
     Ecommerce,
+    portfolio,
 
   } from "../assets";
   
@@ -235,7 +236,7 @@ import {
     {
       name: "Ecommerce Project",
       description:
-        "Designed and developed the front-end for a dynamic web application using HTML, CSS, and JavaScript. The project includes responsive layouts, interactive navigation, and visually appealing pages such as home, shop, blog, about, and contact. While currently focused on front-end user experience, future plans involve integrating back-end functionality to enhance interactivity.",
+        "Designed and developed the front-end for a dynamic web application using HTML, CSS, and JavaScript. The project includes responsive layouts, interactive navigation, and visually appealing pages such as home, shop, blog, about, and contact. While currently focused on front-end user experience, future plans involve integrating back-end functionality to enhance interactivity.                                                      ",
       tags: [
         {
           name: "HTML",
@@ -253,27 +254,27 @@ import {
       image: Ecommerce,
       source_code_link: "https://github.com/anshul2071/Ecommerce_Project",
     },
-    // {
-    //   name: "Trip Guide",
-    //   description:
-    //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    //   tags: [
-    //     {
-    //       name: "nextjs",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "supabase",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "css",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: tripguide,
-    //   source_code_link: "https://github.com/",
-    // },
+    {
+      name: "Portfolio",
+      description:
+        "This is a personal portfolio website where I share my details, including my professional background, skills, and projects. The website features an interactive design with a 3D model, providing a unique and modern touch. It is built using React.js and Three.js, ensuring a smooth and responsive user experience.",
+      tags: [
+        {
+          name: "React js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Three Js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind Css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: portfolio,
+      source_code_link: "https://github.com/anshul2071/Portfolio",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };

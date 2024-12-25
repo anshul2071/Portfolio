@@ -30,6 +30,7 @@ import jodifinder from "./jodifinder.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import Ecommerce from "./Ecommerce.png";
+import portfolio from "./portfolio.png";
 export {
   logo,
   backend,
@@ -56,7 +57,7 @@ export {
   shopify,
   starbucks,
   tesla,
-
+  portfolio,
   jobit,
   tripguide,
   Ecommerce,
