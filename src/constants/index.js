@@ -236,7 +236,7 @@ import {
     {
       name: "Ecommerce Project",
       description:
-        "Designed and developed the front-end for a dynamic web application using HTML, CSS, and JavaScript. The project includes responsive layouts, interactive navigation, and visually appealing pages such as home, shop, blog, about, and contact. While currently focused on front-end user experience, future plans involve integrating back-end functionality to enhance interactivity.                                                      ",
+        "Designed and developed the front-end for a dynamic web application using HTML, CSS, and JavaScript. The project includes responsive layouts, interactive navigation, and visually appealing pages such as home, shop, blog, about, and contact. While currently focused on front-end user experience, future plans involve integrating back-end functionality to enhance interactivity.",
       tags: [
         {
           name: "HTML",
@@ -257,7 +257,7 @@ import {
     {
       name: "Portfolio",
       description:
-        "This is a personal portfolio website where I share my details, including my professional background, skills, and projects. The website features an interactive design with a 3D model, providing a unique and modern touch. It is built using React.js and Three.js, ensuring a smooth and responsive user experience.",
+        "This is a personal portfolio website where I share my details, including my professional background, skills, and projects. The website features an interactive design with a 3D model, providing a unique and modern touch. It is built using React.js and Three.js, ensuring a smooth and responsive user experience.                                                                                                                          ",
       tags: [
         {
           name: "React js",
@@ -274,6 +274,28 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/anshul2071/Portfolio",
+    },
+
+    {
+      name: "Video Editing",
+      description:
+        "I’ve done several anime recap projects, and I’ve gotten better at making smooth, engaging summaries. While I wouldn’t call myself an expert yet, I’ve built a style that works well and I believe I can deliver what your team is looking for. My passion for anime really helps me connect with the content and understand what viewers enjoy seeing in a recap. I even worked on a project where I had to recap documented archaeological sites, which was something new for me. It was a challenge, but it really helped me sharpen my attention to detail and adapt my editing style to different types of content.",
+      tags: [
+        {
+          name: "Adobe Premiere Pro",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Wondershare Filmore",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Davinci Resolve",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: portfolio,
+      source_code_link: "https://www.upwork.com/freelancers/~01d2712401c3ab902f?p=1853352911744811008",
     },
   ];
   
