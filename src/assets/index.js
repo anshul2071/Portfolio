@@ -27,8 +27,8 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import jodifinder from "./jodifinder.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+
+
 import Ecommerce from "./Ecommerce.png";
 import portfolio from "./portfolio.png";
 export {
@@ -58,8 +58,6 @@ export {
   starbucks,
   tesla,
   portfolio,
-  jobit,
-  tripguide,
   Ecommerce,
   jodifinder
 };

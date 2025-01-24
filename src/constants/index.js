@@ -20,8 +20,6 @@ import {
     tesla,
     shopify,
     jodifinder,
-    jobit,
-    tripguide,
     threejs,
     logo,
     Ecommerce,
